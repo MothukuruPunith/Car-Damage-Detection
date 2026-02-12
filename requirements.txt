@@ -1,5 +1,5 @@
 streamlit==1.44.1
+torch
+torchvision
 pillow==11.1.0
-torch==2.9.1+cu128
-torchvision==0.24.1+cu128
 gdown
